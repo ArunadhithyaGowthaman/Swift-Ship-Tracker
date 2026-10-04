@@ -8,7 +8,7 @@ Salesforce-based parcel management project.
 
 ## Project Demo
 
-[Watch SwiftShip Demo Video](https://drive.google.com/file/d/1wIaJmxwt4lhyYcZNxHej_y7O3jM86dws/view?usp=sharing)
+[Watch SwiftShip Demo Video](https://drive.google.com/file/d/1Gm7Ea2QsABIkD24M6pIm9vce5LkMee5B/view?usp=sharing)
 
 ## Project Overview
 
